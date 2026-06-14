@@ -1,0 +1,41 @@
+# System files
+.DS_Store
+Thumbs.db
+._*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+ehthumbs.db
+Icon?
+*.lnk
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Node.js dependencies (if applicable)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs (if applicable)
+dist/
+build/
+out/
+
+# Don't ignore these file types
+!*.md
+!*.pdf
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.svg
+!*.webp
